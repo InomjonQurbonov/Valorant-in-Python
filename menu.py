@@ -22,7 +22,7 @@ YELLOW = (255, 255, 0)
 GRAY = (200, 200, 200)
 
 # Шрифт
-font = pygame.font.Font(None, 50)
+font = pygame.font.Font("game_files/game_font/Evalter.ttf", 50)
 
 # Кнопки
 buttons = [
